@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @nauticalbear
 - 👀 I’m interested in .ADA..
 - 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on ..hydra 
+- .
 - 📫 How to reach me nauticalbear@yahoo.com
 
 <!---
